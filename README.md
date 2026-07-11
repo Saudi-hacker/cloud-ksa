@@ -1,6 +1,6 @@
 # Cloud-KSA | منصة متجرك جاهز
 
-> **Full-Stack E-Commerce Platform** · _3 Years of Development_
+> **Full-Stack E-Commerce Platform** · _May 2022 — May 2023 (1 Year)_
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
